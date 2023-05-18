@@ -140,11 +140,11 @@ params:
         Content: >
             Mi nombre es Juan Rico.
 
-            - **Infraleves** es un blog que trata sobre temas tan diversos como son la economía, tecnología y vivencias personales. Surgió como continuación de otro que creé para la asignatura *[Economía de la Globalización](http://www.rankia.com/blog/economia-global/).* 
+            - **Infraleves** es un blog personal que surgió como continuación de otro que creé para ser evaluado de *[Economía de la Globalización](http://www.rankia.com/blog/economia-global/).* Trata sobre temas tan diversos como son la economía, tecnología y vivencias personales
 
-            - Infra-leve es el término que creó Marcel Duchamp para definir aquello que es más que leve y que sólo puede definirse a través de ejemplos. Esos ejemplos fueron los posts aquí escritos y que componen esta web.
+            - Do give a 🌟 on Github !
 
-            - Ahora podéis encontrarme en [Juan Rico Reig](https://juanricoreig.com/).
+            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
 
     socialIcons:
         - name: github
