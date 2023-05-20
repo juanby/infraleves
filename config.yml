@@ -44,7 +44,7 @@ outputs:
         - JSON
 
 permalink:
-    posts: /:filename/
+    posts: /:title/
     categories: /:slug/
     tags: /:slug/
     
