@@ -1,6 +1,6 @@
 baseURL: "/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: Infraleves
-paginate: 5
+paginate: 3
 theme: hugo-PaperMod
 
 enableInlineShortcodes: true
@@ -43,6 +43,11 @@ outputs:
         - RSS
         - JSON
 
+permalinks:
+    posts: '/:filename/'
+    categories: '/:slug/'
+    tags: '/:slug/'
+    
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
