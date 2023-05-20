@@ -43,11 +43,6 @@ outputs:
         - RSS
         - JSON
 
-permalinks:
-    posts: '/:filename/'
-    categories: '/:slug/'
-    tags: '/:slug/'
-    
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
